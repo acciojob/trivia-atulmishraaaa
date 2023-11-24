@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+label{
+	font-weight:600;
+}
+blockquote{
+	border-left: 8px solid green;
+	Max-width: 600px;
+	Margin:  10px;
+	Padding: 15px;
+	Background-color: #f8fffe;
+	Font-weight: Bold;
+}
